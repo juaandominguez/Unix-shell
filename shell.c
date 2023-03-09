@@ -89,9 +89,9 @@ void Cmd_autores(char * tr[]){
         return;
     }
     if(!strcmp(tr[0],"-l")){
-        printf("juan.dominguezr@udc.es & javier.miguel@udc.es\n");}
+        printf("juan.dominguezr@udc.es\n");}
         else if(!strcmp(tr[0],"-n")){
-        printf("Juan Domínguez Rodríguez & Javier Miguel Sánchez\n");
+        printf("Juan Domínguez Rodríguez\n");
 
     }
 }
